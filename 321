@@ -133,3 +133,7 @@ http://85.203.33.88:80/1iXIk6rXFs/5dZmYChlre/17259
 #EXTINF:0, group-title="EU SPORT",Fight Channel HR
 #EXTVLCOPT:network-caching=1000
 http://85.203.33.88:80/1iXIk6rXFs/5dZmYChlre/28086
+#EXTINF:-1  tvg-id="beINSports2English.qa" group-title="EU SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-2-qa.png",beIN Sports 2 English
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1  tvg-id="beINSports1English.qa" group-title="EU SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png",beIN Sports 1 English
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
